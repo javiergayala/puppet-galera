@@ -7,7 +7,7 @@
     },
     {
       "name": "puppetlabs/apt",
-      "version_requirement": ">= 1.4.1 <= 1.7.0"
+      "version_requirement": ">=2.0.0"
     },
     {
       "name": "puppetlabs/mysql",
@@ -56,4 +56,3 @@
   "tags": ["mysql", "percona", "mariadb", "galera", "database"],
   "version": "0.1.0"
 }
-
